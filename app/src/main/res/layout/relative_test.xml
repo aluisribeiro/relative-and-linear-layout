@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+
+        <TextView
+                android:text="Node"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="A"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="Java"
+                android:textSize="32sp"
+                android:background="@color/colorPrimaryDark"
+                android:textColor="#FFF"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+
+        <TextView
+                android:text="Ruby"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="B"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="Elixir"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+
+        <TextView
+                android:text="Ruby"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="B"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="Elixir"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+
+        <TextView
+                android:text="Ruby"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="B"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="Elixir"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+
+        <TextView
+                android:text="PHP"
+                android:textSize="32sp"
+                android:background="@color/colorAccent"
+                android:textColor="#FFF"
+                android:layout_alignParentBottom="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="C"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFFF"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:text="Delphi"
+                android:textSize="32sp"
+                android:background="@color/colorPrimary"
+                android:textColor="#FFF"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
